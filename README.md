@@ -1,3 +1,4 @@
+__The content are mostly based on official SageMaker examples. Inside of the notebooks, a detailed source location is referred.__
 # The following notebooks are tested on SageMaker Studio with Python3 (Tensorflow2 GPU Optimized)
 
 ### Folder : tf-sentiment-script-mode
